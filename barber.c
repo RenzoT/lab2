@@ -67,6 +67,8 @@ int main() {
     }
 
     sem_init(&sem_seats, 0, NUM_SEATS);
+    sem_init(&write_panel, 0, 1);
+    sem_init(&read_panel, 0, 0);
     
     //Barberos
     for (i = 0; i < NUM_BARBERS; i++) 
@@ -84,3 +86,4 @@ int main() {
 
     return 0;
 }
+
