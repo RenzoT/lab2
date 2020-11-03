@@ -1,0 +1,48 @@
+client id 0, enters barbershop
+client id 0, at barber chair
+client id 2, enters barbershop
+barber done haircut
+client id 3, enters barbershop
+client id 3, at barber chair
+client id 0, done
+barber done haircut
+client id 2, at barber chair
+barber done haircut
+client id 3, done
+client id 1, enters barbershop
+client id 2, done
+client id 4, enters barbershop
+client id 4, at barber chair
+barber done haircut
+client id 4, done
+client id 1, at barber chair
+client id 5, enters barbershop
+barber done haircut
+client id 6, enters barbershop
+client id 1, done
+client id 5, at barber chair
+client id 7, enters barbershop
+barber done haircut
+client id 5, done
+client id 6, at barber chair
+barber done haircut
+client id 6, done
+client id 7, at barber chair
+barber done haircut
+client id 7, done
+client id 9, enters barbershop
+client id 9, at barber chair
+barber done haircut
+client id 10, enters barbershop
+client id 9, done
+client id 10, at barber chair
+barber done haircut
+client id 11, enters barbershop
+client id 10, done
+client id 11, at barber chair
+barber done haircut
+client id 8, enters barbershop
+client id 11, done
+client id 8, at barber chair
+barber done haircut
+client id 8, done
